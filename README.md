@@ -21,3 +21,6 @@ Sample request body for /predict request:
             }
 }
 ```
+
+## Acknowledgment
+Part of REST API implementation is modified from [this tutorial](https://www.youtube.com/watch?v=56qQNcHJxyQ).
